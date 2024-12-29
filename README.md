@@ -172,7 +172,7 @@ docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-
 ### Ollama Issues
 
 -   If the LLaMA3.2 model fails to load, ensure you have enough memory and disk space.
--   Re-pull the model if there�s a digest mismatch:
+-   Re-pull the model if there's a digest mismatch:
     
     ```powershell
     ollama pull llama3.2
@@ -193,7 +193,7 @@ docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-
 
 ----------
 
-With these steps, you�ll have a powerful environment ready for AI model experimentation and development. Enjoy exploring!
+With these steps, you'll have a powerful environment ready for AI model experimentation and development. Enjoy exploring!
 
 ## Tutorials
-<a  href="http://www.youtube.com/watch?feature=player_embedded&v=GwbifpKRAIU "  target="_blank"><img  src="http://img.youtube.com/vi/GwbifpKRAIU /0.jpg"  alt="🚀 Run AI Models Locally & Offline FAST! | Step-by-Step Setup for WSL, Ollama, & Docker Desktop"  width="240"  height="180"  border="10"  />🚀 Run AI Models Locally & Offline FAST! | Step-by-Step Setup for WSL, Ollama, & Docker Desktop</a>
+<a  href="http://www.youtube.com/watch?feature=player_embedded&v=GwbifpKRAIU"  target="_blank"><img  src="http://img.youtube.com/vi/GwbifpKRAIU/0.jpg"  alt="🚀 Run AI Models Locally & Offline FAST! | Step-by-Step Setup for WSL, Ollama, & Docker Desktop"  width="240"  height="180"  border="10"  />🚀 Run AI Models Locally & Offline FAST! | Step-by-Step Setup for WSL, Ollama, & Docker Desktop</a>
