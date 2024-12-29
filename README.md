@@ -196,4 +196,4 @@ docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-
 With these steps, you'll have a powerful environment ready for AI model experimentation and development. Enjoy exploring!
 
 ## Tutorials
-<a  href="http://www.youtube.com/watch?feature=player_embedded&v=GwbifpKRAIU"  target="_blank"><img  src="http://img.youtube.com/vi/GwbifpKRAIU/0.jpg"  alt="🚀 Run AI Models Locally & Offline FAST! | Step-by-Step Setup for WSL, Ollama, & Docker Desktop"  width="240"  height="180"  border="10"  />🚀 Run AI Models Locally & Offline FAST! | Step-by-Step Setup for WSL, Ollama, & Docker Desktop</a>
+<a  href="http://www.youtube.com/watch?feature=player_embedded&v=GwbifpKRAIU"  target="_blank"><img  src="http://img.youtube.com/vi/GwbifpKRAIU/0.jpg"  alt="🚀 Run AI Models Locally & Offline FAST! | Step-by-Step Setup for WSL, Ollama, & Docker Desktop"  width="240"  height="180"  border="10"  /></a>
